@@ -1,4 +1,4 @@
-# Chipathon-2-SRAM-Design-
+# Chipathon 2 SRAM Design
 This is a design of a 32x4 SRAM for AI Accelorators as part of the Chipathon 2 competition 2026 by KACST. 
 The team consisted of four members and the SRAM was designed using SiemensEDA. I served as the head Digital Engineer and Architect,
 with my main contributions being the design of the Row Decoder, Selection Multiplexers, and overall optimization of the system.
