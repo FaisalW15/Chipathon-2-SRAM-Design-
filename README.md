@@ -54,22 +54,22 @@ The multiplexer was designed using transmission gates in order to maintain signa
 # Sense Amplifier
 The sense amplifer detects the small voltage swings on the bitlines coming from the multiplexer during a read operation to either set it to VDD or GND.
 
-![image alt]()
+![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/senseAmplifier.png?raw=true)
 
 # SRAM Top View
 This is the overall top view of the entire circuit upon system integration.
 
-![image alt]()
+![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/senseAmplifier.png?raw=true)
 
 # SRAM Results Waveform
 This is the final waveform of the SRAM showcasing the fully functional system.
 
-![image alt]()
+![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/SRAM_Results_Waveform.png?raw=true)
 
 # Results 
 This is a brief of the improvement the team was able to achieve by the end of the competition.
 
-![image alt]()
+![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/SRAM_Overall_Stats.png?raw=true)
 
 # Future Improvements
 - Increasing sense amplifer sensitivity
