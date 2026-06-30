@@ -1,6 +1,20 @@
 # Chipathon-2-SRAM-Design-
-This is a design of a 32x4 SRAM for AI Accelorators as part of the Chipathon 2 competition 2026 by KACST.
+This is a design of a 32x4 SRAM for AI Accelorators as part of the Chipathon 2 competition 2026 by KACST. 
+The team consisted of four members and the SRAM was designed using SiemensEDA. I served as the head Digital Engineer and Architect,
+with my main contributions being the design of the Row Decoder, Selection Multiplexers, and overall optimization of the system.
 
+
+# Introduction 
+As we step further into the fourth industrial revolution, AI continues to play a greater role
+shaping the future and enabling organizations. Due to the massive amounts of data being
+shifted around in AI applications such as Large Language Models, the need for a memory with
+lower access-time increases.
+Our aim is to design a functional SRAM that reduces the access-time and propagation-delay as
+much as possible, and this will be done by creating multiple potential designs for each
+functional block and comparing their propagation-delay and selecting the design with the least
+propagation-delay.
+
+# Overview
 The internal SRAM architecture is comprised of 4 major blocks: The Row Decoder, an
 array of 6T SRAM cells, Selection Multiplexers and Sense Amplifiers.
 
@@ -17,3 +31,12 @@ tranistors to pass a stronger HIGH signal.
 
 To achieve a high access-time and lower propagation-delay, the main trade-off was with
 area due to increased amount of gates and a slight increase in power consumption.
+
+#Methodology
+The design flow started with constructing potential schematics with
+different design decisions, verifying functionality and propagation delay
+and power consumption through the simulation to select the best design.
+
+Each team member was responsible for the design and testing of one
+functional block, with the system integration being a team effort.
+  
