@@ -39,4 +39,9 @@ and power consumption through the simulation to select the best design.
 
 Each team member was responsible for the design and testing of one
 functional block, with the system integration being a team effort.
+
+# Decoder Design
+The decoder was designed to achieve as low propagation delay as possible, and was selected based on what design would give the lowest amount of stages
+and lowest logical effort in order to increase the access time.
+![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/3to8_decoder.png?raw=true)
   
