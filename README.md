@@ -59,7 +59,7 @@ The sense amplifer detects the small voltage swings on the bitlines coming from 
 # SRAM Top View
 This is the overall top view of the entire circuit upon system integration.
 
-![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/senseAmplifier.png?raw=true)
+![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/SRAM_Top_View.png?raw=true)
 
 # SRAM Results Waveform
 This is the final waveform of the SRAM showcasing the fully functional system.
