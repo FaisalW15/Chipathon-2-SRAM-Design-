@@ -32,7 +32,7 @@ tranistors to pass a stronger HIGH signal.
 To achieve a high access-time and lower propagation-delay, the main trade-off was with
 area due to increased amount of gates and a slight increase in power consumption.
 
-#Methodology
+# Methodology
 The design flow started with constructing potential schematics with
 different design decisions, verifying functionality and propagation delay
 and power consumption through the simulation to select the best design.
