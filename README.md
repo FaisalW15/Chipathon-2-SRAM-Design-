@@ -1,5 +1,5 @@
 # Chipathon-2-SRAM-Design-
-This is a design of an SRAM for AI Accelorators as part of the Chipathon 2 competition 2026 by KACST.
+This is a design of a 32x4 SRAM for AI Accelorators as part of the Chipathon 2 competition 2026 by KACST.
 
 The internal SRAM architecture is comprised of 4 major blocks: The Row Decoder, an
 array of 6T SRAM cells, Selection Multiplexers and Sense Amplifiers.
