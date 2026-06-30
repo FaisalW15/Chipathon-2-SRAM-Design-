@@ -57,7 +57,7 @@ The sense amplifer detects the small voltage swings on the bitlines coming from 
 ![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/senseAmplifier.png?raw=true)
 
 # SRAM Top View
-This is the overall top view of the entire circuit upon system integration.
+This is the overall top view schematic of the entire circuit upon system integration.
 
 ![image alt](https://github.com/FaisalW15/Chipathon-2-SRAM-Design-/blob/main/SRAM_Top_View.png?raw=true)
 
@@ -76,3 +76,4 @@ This is a brief of the improvement the team was able to achieve by the end of th
 - Using pass transistors instead of transmission gates where applicable to decrease access time
 - Using cascaded buffers to decrease capacitance on the Word Lines
 - High-skew inverters to decrease transistor size
+- Decreasing power-consumption
